@@ -20,6 +20,6 @@ IC2      XC9572XL_44PLCCDIP XC9572XL_44PLCCDIP    S44
 JTAG                        PINHD-1X7             1X07                 
 RAM0                        MEMORY-HITACHI_628512 MEMORY-HITACHI_DIL32 
 RAM1                        MEMORY-HITACHI_628512 MEMORY-HITACHI_DIL32 
-RN1      5x10K              G04R                  SIL5                 
+RN1      5x3.3              G04R                  SIL5                 
 SW1                         SW_DIP-4              EDG-04               
 VIN                         PINHD-1X3             1X03                 
